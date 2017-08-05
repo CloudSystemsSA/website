@@ -1,0 +1,80 @@
+body{
+
+    color: rgb(63,98,132);
+    background: url("logo.png") no-repeat top right;
+
+}
+.header{
+    position: relative;
+    width: 100%;
+}
+.header img {
+    float: right;
+    padding-right: 6%;
+
+}
+
+/*header styling ends */
+.menu{
+    position: relative;
+    width: 100%;
+    margin-top: 17%;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(63,98,132);
+}
+
+li {
+    float: right;
+    padding-right: 10%;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+
+
+/*menu styling ends */
+
+
+
+
+.boxes{
+    position: relative;
+    width: 100%;
+    float: right;
+    text-align: right;
+    margin-bottom: 1%;
+}
+.boxes img{
+    float: left;
+}
+.logos{
+    padding: 6%;
+}
+
+
+.smallLogos{
+    padding: 7%;
+}
+
+
+/*contacts styling ends */
+.footer{
+    position: relative;
+    height: 100px;
+    border-bottom: solid rgb(128,171,200);
+    margin-bottom: 1%;
+    width: 100%;
+}
