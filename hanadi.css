@@ -2,7 +2,7 @@
 @import url(https://cdn.rawgit.com/rtaibah/dubai-font-cdn/master/dubai-font.css);
 
 *{
-  margin: 0; padding: 0; line-height: 1.5;
+  margin: 0; padding: 0; border:0; line-height: 1.5;
   font-family: 'Dubai-Regular', sans-serif;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
