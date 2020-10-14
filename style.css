@@ -7,7 +7,7 @@ body{
 }
 
 *{
-  margin: 0; padding: 0; line-height: 1.5;
+  margin: 0; padding: 0; line-height: 1.5; border:0;
   font-family: 'Dubai-Regular', sans-serif;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
